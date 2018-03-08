@@ -3,6 +3,10 @@ Optimizes refugee flow using Dijkstra's and Genetic Algorithm
 
 This project was developed collaborately with Sarah Wu and Jennifer Zou.
 
+## Awards
+
+Our team's solution was awarded **Meritorious Winner** by the Interdisciplinary Contest in Modeling (ICM). The full certificate can be found [here](MCM_Certificate.pdf)
+
 ## Problem Synposis
 
 The full problem document is found [here](2016_ICM_Problem_F.pdf)
