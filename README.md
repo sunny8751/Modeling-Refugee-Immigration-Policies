@@ -7,7 +7,7 @@ This project was developed collaborately with Sarah Wu and Jennifer Zou.
 
 The full problem document is found [here](2016_ICM_Problem_F.pdf)
 
-During the 2015 refugee crisis, hundreds of thousands of refugees migrated to European countries primarily using six main routes [Article](http://www.bbc.com/news/world-europe-34131911): 
+During the 2015 refugee crisis, hundreds of thousands of refugees migrated to European countries primarily using six main routes ([Article](http://www.bbc.com/news/world-europe-34131911)): 
 1. West Mediterranean
 2. Central Mediterranean
 3. Eastern Mediterranean
@@ -21,4 +21,4 @@ The UN has asked your team, the ICM-RUN (RefUgee aNalytics) to help develop a be
 
 Our team modeled the refugee crisis using an agent-based modeling environment and optimized the refugee flow via a combination of Dijkstra's Algorithm and a Genetic Algorithm. 
 
-The final solution paper can be found [here](Final Paper.pdf)
+The final solution paper can be found [here](Final_Paper.pdf)
