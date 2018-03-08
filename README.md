@@ -22,3 +22,5 @@ The UN has asked your team, the ICM-RUN (RefUgee aNalytics) to help develop a be
 Our team modeled the refugee crisis using an agent-based modeling environment and optimized the refugee flow via a combination of Dijkstra's Algorithm and a Genetic Algorithm. 
 
 The final solution paper can be found [here](Final_Paper.pdf)
+
+![Genetic Algorithm Screenshot](/readme_pics/genetic_algorithm_screenshot.png?raw=true)
