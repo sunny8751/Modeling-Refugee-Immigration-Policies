@@ -23,4 +23,6 @@ Our team modeled the refugee crisis using an agent-based modeling environment an
 
 The final solution paper can be found [here](Final_Paper.pdf)
 
+A screenshot of the genetic algorithm modeling the refugee immigration in NetLogo:
+
 ![Genetic Algorithm Screenshot](/readme_pics/genetic_algorithm_screenshot.png?raw=true)
